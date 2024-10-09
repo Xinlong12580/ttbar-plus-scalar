@@ -8,7 +8,7 @@ testins.Selection()
 testins.JetsCandidateKinematicinfo()
 testins.MassReconstruction()
 testins.Snapshot()
-testins.Snapshot()
+#testins.Snapshot()
 
-testins.a.Snapshot(['LeptonTestAndReOrdering'], 'test_output.root', 'Events', openOption='RECREATE', saveRunChain=True)
+#testins.a.Snapshot(['LeptonTestAndReOrdering'], 'test_output.root', 'Events', openOption='RECREATE', saveRunChain=True)
 
